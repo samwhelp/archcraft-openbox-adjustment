@@ -13,6 +13,8 @@
 	</keybind>
 	//-->
 
+
+	<!--
 	<keybind key="A-S-v">
 		<action name="Execute">
 			<startupnotify>
@@ -22,8 +24,18 @@
 			<command>pavucontrol-qt</command>
 		</action>
 	</keybind>
+	//-->
 
 
+	<keybind key="A-S-v">
+		<action name="Execute">
+			<startupnotify>
+				<enabled>true</enabled>
+				<name>VolumeControl</name>
+			</startupnotify>
+			<command>pavucontrol</command>
+		</action>
+	</keybind>
 
 
 <?php
