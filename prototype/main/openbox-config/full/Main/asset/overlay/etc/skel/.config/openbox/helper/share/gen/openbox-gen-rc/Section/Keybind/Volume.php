@@ -100,6 +100,61 @@
 
 
 
+	<keybind key="A-m">
+		<action name="Execute">
+			<command>ob-volume --toggle</command>
+		</action>
+	</keybind>
+
+	<keybind key="A-S-comma">
+		<action name="Execute">
+			<command>ob-volume --dec</command>
+		</action>
+	</keybind>
+
+	<keybind key="A-S-period">
+		<action name="Execute">
+			<command>ob-volume --inc</command>
+		</action>
+	</keybind>
+
+
+	<keybind key="A-C-comma">
+		<action name="Execute">
+			<command>ob-volume --dec</command>
+		</action>
+	</keybind>
+
+	<keybind key="A-C-period">
+		<action name="Execute">
+			<command>ob-volume --inc</command>
+		</action>
+	</keybind>
+
+
+
+
+	<keybind key="XF86AudioMute">
+		<action name="Execute">
+			<command>ob-volume --toggle</command>
+		</action>
+	</keybind>
+
+	<keybind key="XF86AudioLowerVolume">
+		<action name="Execute">
+			<command>ob-volume --dec</command>
+		</action>
+	</keybind>
+
+	<keybind key="XF86AudioRaiseVolume">
+		<action name="Execute">
+			<command>ob-volume --inc</command>
+		</action>
+	</keybind>
+
+
+
+
 <?php
 /*
 
