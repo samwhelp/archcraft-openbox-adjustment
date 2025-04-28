@@ -1,5 +1,9 @@
 
 
+
+
+<?php
+/*
 	<keybind key="A-S-m">
 		<action name="Execute">
 			<startupnotify>
@@ -37,6 +41,55 @@
 			<command>lxqt-config-brightness -i</command>
 		</action>
 	</keybind>
+*/
+?>
+
+
+
+
+	<keybind key="XF86MonBrightnessDown">
+		<action name="Execute">
+			<command>ob-brightness --dec</command>
+		</action>
+	</keybind>
+
+	<keybind key="XF86MonBrightnessUp">
+		<action name="Execute">
+			<command>ob-brightness --inc</command>
+		</action>
+	</keybind>
+
+
+
+
+<?php
+/*
+	<keybind key="A-S-bracketleft">
+		<action name="Execute">
+			<command>ob-brightness --dec</command>
+		</action>
+	</keybind>
+
+	<keybind key="A-S-bracketright">
+		<action name="Execute">
+			<command>ob-brightness --inc</command>
+		</action>
+	</keybind>
+
+
+	<keybind key="A-C-bracketleft">
+		<action name="Execute">
+			<command>ob-brightness --dec</command>
+		</action>
+	</keybind>
+
+	<keybind key="A-C-bracketright">
+		<action name="Execute">
+			<command>ob-brightness --inc</command>
+		</action>
+	</keybind>
+*/
+?>
 
 
 
