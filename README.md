@@ -36,3 +36,10 @@
 | [System Modeling](https://samwhelp.github.io/system-modeling/) | [GitHub](https://github.com/samwhelp/system-modeling) |
 | [Openbox Adjustment](https://samwhelp.github.io/openbox-adjustment/) | [GitHub](https://github.com/samwhelp/openbox-adjustment) |
 | [Debian Openbox Adjustment](https://samwhelp.github.io/debian-openbox-adjustment/) | [GitHub](https://github.com/samwhelp/debian-openbox-adjustment) |
+
+
+| Link | GitHub |
+| ---- | ------ |
+| [Archlinux Adjustment](https://samwhelp.github.io/archlinux-adjustment/) | [GitHub](https://github.com/samwhelp/archlinux-adjustment) |
+| [Archlinux Lxqt Adjustment](https://samwhelp.github.io/archlinux-lxqt-adjustment/) | [GitHub](https://github.com/samwhelp/archlinux-lxqt-adjustment) |
+| [Archlinux Lxde Adjustment](https://samwhelp.github.io/archlinux-lxde-adjustment/) | [GitHub](https://github.com/samwhelp/archlinux-lxde-adjustment) |
