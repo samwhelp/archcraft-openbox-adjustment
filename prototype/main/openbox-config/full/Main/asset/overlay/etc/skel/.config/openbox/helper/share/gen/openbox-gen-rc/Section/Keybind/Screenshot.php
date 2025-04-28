@@ -1,5 +1,41 @@
 
+	<keybind key="Print">
+		<action name="Execute">
+			<command>ob-screenshot --now</command>
+		</action>
+	</keybind>
 
+
+	<keybind key="W-Print">
+		<action name="Execute">
+			<command>ob-screenshot --win</command>
+		</action>
+	</keybind>
+
+
+	<keybind key="C-Print">
+		<action name="Execute">
+			<command>ob-screenshot --area</command>
+		</action>
+	</keybind>
+
+
+	<keybind key="A-Print">
+		<action name="Execute">
+			<command>rofi-screenshot</command>
+		</action>
+	</keybind>
+
+
+	<keybind key="S-Print">
+		<action name="Execute">
+			<command>ob-screenshot --in5</command>
+		</action>
+	</keybind>
+
+
+<?php
+/*
 	<keybind key="Print">
 		<action name="Execute">
 			<command>screengrab --fullscreen</command>
@@ -26,6 +62,8 @@
 			<command>screengrab</command>
 		</action>
 	</keybind>
+*/
+?>
 
 
 <?php
