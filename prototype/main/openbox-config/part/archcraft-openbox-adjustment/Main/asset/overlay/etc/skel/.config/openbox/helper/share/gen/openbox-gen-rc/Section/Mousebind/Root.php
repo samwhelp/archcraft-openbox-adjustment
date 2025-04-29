@@ -3,9 +3,17 @@
 	<context name="Root">
 
 		<!-- Mouse Button Left Click //-->
+		<!--
 		<mousebind button="Left" action="Press">
 			<action name="ToggleShowDesktop"/>
 		</mousebind>
+		//-->
+
+		<!-- Mouse Button Left DoubleClick //-->
+		<mousebind button="Left" action="DoubleClick">
+			<action name="ToggleShowDesktop"/>
+		</mousebind>
+
 
 		<!-- Menus -->
 		<!-- Mouse Button Middle Click //-->
